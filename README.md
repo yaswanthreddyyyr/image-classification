@@ -2,9 +2,6 @@
 
 This project aims to classify the images in the given dataset as cats or dogs using convolutional neural networks(CNN)
 
-### Approach and pipeline:
-
-Refer to the [report](Report.pdf) and [code](./Code) for the approach and implementation.
 
 ### Results:
 
